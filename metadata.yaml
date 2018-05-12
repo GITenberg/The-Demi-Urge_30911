@@ -1,0 +1,30 @@
+_repo: The-Demi-Urge_30911
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Disch, Thomas M.
+    aliases:
+    - Disch, Tom
+    - Disch, Thomas Michael
+    birthdate: 1940
+    deathdate: 2008
+    gutenberg_agent_id: '34889'
+    url: http://www.gutenberg.org/2009/agents/34889
+description: ''
+gutenberg_issued: '2010-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Demi-Urge
+url: http://www.gutenberg.org/ebooks/30911
